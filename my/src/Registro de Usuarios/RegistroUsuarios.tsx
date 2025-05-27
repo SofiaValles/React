@@ -41,5 +41,5 @@ function RegistroUsuarios()
             </label>
             <button type="submit">Registrar</button>
         </form>
-            );
+            );   
 }
